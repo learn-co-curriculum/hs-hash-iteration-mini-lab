@@ -28,5 +28,5 @@ Use the .each method to iterate through the `summer_olympics` hash and for each 
 
 ### Iterate through the keys
 
-Use the .each_key method to return an array og the cities where each city name has been upcased. Save this to a new variable `upcased_cities` and puts this to the screen.
+Use the .each_key method to return an array of the cities where each city name has been upcased. Save this to a new variable `upcased_cities` and puts this to the screen.
 
