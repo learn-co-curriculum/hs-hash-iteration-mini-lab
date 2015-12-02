@@ -19,3 +19,5 @@ Use the .each method to iterate through the `summer_olympics` hash and for each 
 ### Iterate Through the Keys
 Use the `each_key` method to return an array of the cities where each city name has been upcased. Save this to a new variable called `upcased_cities` and `puts` this to the screen.
 
+
+<a href='https://learn.co/lessons/hs-hash-iteration-mini-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
